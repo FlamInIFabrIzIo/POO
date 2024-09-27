@@ -20,7 +20,7 @@
 class celular:
     #Metodo constructor
     #Esta funcion se ejecuta automaticamente cada vez que creamos un objeto
-    #Metodo(funcion) especial (_init_)
+    #Metodo -> (funcion) especial (_init_)
     def __init__(self, marca, modelo, camara):
         #########self, es una forma de hacer referencia asi misma
         self.marca = marca 
